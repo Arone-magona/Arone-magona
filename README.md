@@ -13,7 +13,7 @@ Atualmente cursando **Técnico em Desenvolvimento de Sistemas**   Sempre aprende
 
 ## Como me encontrar 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arone-magona&show_icons=true&theme=tokyonight)  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arone-fernando-magona-36a048270?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:aronemagona8@gmail.com) 
